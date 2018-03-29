@@ -40,6 +40,6 @@ module.exports = {
     '@/assets/css/main.scss'
   ],
   router: {
-    base: '/nuxt2/'
+    base: '/nuxt2/' /* Para cuando el proyecto reside en un subdirectorio*/
   }
 }
