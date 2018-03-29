@@ -6,7 +6,7 @@
         nuxtgit
       </h1>
       <h2 class="subtitle">
-        Luope et Bioku
+        La gata Lupe y el gato Biko
       </h2>
       <div class="links">
         <a
