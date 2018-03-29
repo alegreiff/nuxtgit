@@ -6,7 +6,7 @@
         nuxtgit
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Luope et Bioku
       </h2>
       <div class="links">
         <a
